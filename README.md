@@ -2,7 +2,7 @@
 
 Let's create a quick time appropriate greeter application
 
-## Instructions
+## Instructikons
 
 Create your application with the following conditions: 
 
